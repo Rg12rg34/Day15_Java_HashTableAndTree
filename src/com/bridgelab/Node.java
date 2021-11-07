@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelab;
 
 public class Node <K extends Comparable<K>> {
     int key;

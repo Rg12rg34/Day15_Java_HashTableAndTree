@@ -1,4 +1,6 @@
-package com.bridgelabz;
+package com.bridgelab;
+
+import com.bridgelab.BinarySearchTree;
 
 public class BinarySearchTreeMain {
     public static void main(String[] args){

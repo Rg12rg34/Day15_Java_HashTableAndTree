@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelab;
 
 public class BinarySearchTree  <K extends Comparable<K>> {
     Node<K> root;
